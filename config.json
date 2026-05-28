@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasepetch",
+        "uuid": 11515380,
+        "checksum": "b68zzh"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
